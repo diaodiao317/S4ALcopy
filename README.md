@@ -1,6 +1,4 @@
-# S4AL - On boosting active learning for semantic segmentation with semi-supervision
-
-We will update our training logs and post pretrained models here as links shortly. 
+# S4AL - Semantic Segmentation with Active Semi-Supervised Learning
 
 ## Training Env
 We use PyTorch 1.8 with CUDA 11.1 for training all networks. These are the steps to set up the Anaconda environment:
